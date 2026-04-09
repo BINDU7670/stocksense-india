@@ -1,0 +1,49 @@
+{
+  "ticker": "RELIANCE",
+  "resolved_symbol": null,
+  "current_price": null,
+  "collected_at": "2026-04-09T06:34:20.620244",
+  "price_history": [],
+  "fundamentals": {
+    "ticker": "RELIANCE",
+    "pe_ratio": 23.6,
+    "pb_ratio": 648.0,
+    "roe": 8.4,
+    "roce": 9.69,
+    "debt_to_equity": null,
+    "sales_growth": null,
+    "profit_growth": null,
+    "source_url": "https://www.screener.in/company/RELIANCE/consolidated/",
+    "extracted_at": "2026-04-09T06:34:22.054781"
+  },
+  "news": [],
+  "social_posts": [
+    {
+      "platform": "Reddit",
+      "author": "u/valuehunter_india",
+      "published_at": "2026-04-09T02:34:20.642375Z",
+      "content": "RELIANCE keeps showing up in retail discussions because the valuation looks reasonable if earnings hold up through the next two quarters.",
+      "url": "https://www.reddit.com/search/?q=RELIANCE",
+      "sentiment_hint": 0.35
+    },
+    {
+      "platform": "X",
+      "author": "@dalalstreetpulse",
+      "published_at": "2026-04-09T04:34:20.642375Z",
+      "content": "Mixed sentiment around RELIANCE: traders like the momentum setup, but many are still cautious on macro headwinds and execution risk.",
+      "url": "https://x.com/search?q=RELIANCE",
+      "sentiment_hint": 0.05
+    },
+    {
+      "platform": "StockTwits",
+      "author": "india_momentum_lab",
+      "published_at": "2026-04-09T05:49:20.642375Z",
+      "content": "RELIANCE discussion volume is elevated after recent price action. Bullish posts cite breakout potential; bearish posts point to near-term volatility.",
+      "url": "https://stocktwits.com/symbol/RELIANCE",
+      "sentiment_hint": 0.1
+    }
+  ],
+  "errors": [
+    "price: Unable to resolve ticker RELIANCE. RELIANCE.NS: Too Many Requests. Rate limited. Try after a while.; RELIANCE.BO: Too Many Requests. Rate limited. Try after a while."
+  ]
+}
